@@ -1,12 +1,12 @@
-### Hi there, I'm Weslei Melo.👋
+## Hi there, I'm Weslei Melo.👋
 
-#### About
+### About
 
 - 🎓 I'm Web developer, and I'm graduating in Computer Engineering at the [Federal University of Itajubá - UNIFEI](https://unifei.edu.br/).
 
 - 💡 I'm a person who likes to study, seek new knowledge and I am also passionate about teaching.
 
-#### Current stack:
+### Current stack:
 
 - 📙 Languages: `JavaScript`, `C` and `C++`.
 
@@ -22,7 +22,8 @@
 
 
 
-#### Contacts:
+### Contacts:
+
 - 📫 Email: weslei_carlos13@hotmail.com
 
 - 👤 LinkedIn: [Weslei Melo](https://www.linkedin.com/in/weslei-melo-33552b82/) 
